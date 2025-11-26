@@ -378,8 +378,6 @@ Our advanced theming system responds to user emotions and preferences:
 
 ## 📱 Screenshots
 
-<div align="center">
-
 ## 📱 App Interface Showcase
 
 <div align="center">
