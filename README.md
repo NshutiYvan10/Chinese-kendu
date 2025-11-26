@@ -380,50 +380,117 @@ Our advanced theming system responds to user emotions and preferences:
 
 <div align="center">
 
-### 📱 App Interface Showcase
+## 📱 App Interface Showcase
+
+<div align="center">
+
+### ☀️ **Light Mode Interface**
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="assets/screenshots/dashboard.png" alt="Dashboard" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="assets/screenshots/dashboard-light.png" alt="Dashboard Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
 <br><strong>🏠 Dashboard</strong>
-<br><small>Mood overview with AI insights and daily inspiration</small>
+<br><small>Clean overview with AI insights</small>
 </td>
 <td align="center" width="33%">
-<img src="assets/screenshots/mood-tracking.png" alt="Mood Tracking" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="assets/screenshots/mood-tracking-light.png" alt="Mood Tracking Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
 <br><strong>📊 Mood Tracking</strong>
-<br><small>Advanced 5-point mood logging with insights</small>
+<br><small>5-point emotional logging</small>
 </td>
 <td align="center" width="33%">
-<img src="assets/screenshots/journal.png" alt="AI Journal" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="assets/screenshots/journal-light.png" alt="AI Journal Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
 <br><strong>📝 AI Journal</strong>
-<br><small>Sentiment analysis & writing prompts</small>
+<br><small>Sentiment analysis & prompts</small>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="assets/screenshots/messaging.png" alt="Messaging" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>� Messaging</strong>
-<br><small>Real-time chat with mentors and groups</small>
+<img src="assets/screenshots/messaging-light.png" alt="Messaging Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br><strong>💬 Messaging</strong>
+<br><small>Peer support & mentors</small>
 </td>
 <td align="center" width="33%">
-<img src="assets/screenshots/meditation.png" alt="Meditation" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="assets/screenshots/meditation-light.png" alt="Meditation Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
 <br><strong>🧘 Meditation</strong>
-<br><small>Interactive breathing guides & timers</small>
+<br><small>Guided breathing exercises</small>
 </td>
 <td align="center" width="33%">
-<img src="assets/screenshots/analytics.png" alt="Analytics" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="assets/screenshots/analytics-light.png" alt="Analytics Light Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
 <br><strong>📈 Analytics</strong>
-<br><small>Beautiful charts and progress visualization</small>
+<br><small>Progress visualization</small>
 </td>
 </tr>
 </table>
 
-### 🎨 Design Highlights
-- **Glassmorphism UI**: Premium backdrop blur effects throughout
-- **Adaptive Theming**: Mood-responsive color schemes
-- **Smooth Animations**: Lottie animations and custom transitions
-- **Material Design 3**: Modern components with accessibility features
+<br>
+
+### 🌙 **Dark Mode Interface**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="assets/screenshots/dashboard-dark.png" alt="Dashboard Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>🏠 Dashboard</strong>
+<br><small>Comfortable evening viewing</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/mood-tracking-dark.png" alt="Mood Tracking Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>📊 Mood Tracking</strong>
+<br><small>Soothing dark analytics</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/journal-dark.png" alt="AI Journal Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>📝 AI Journal</strong>
+<br><small>Focused writing experience</small>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="assets/screenshots/messaging-dark.png" alt="Messaging Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>💬 Messaging</strong>
+<br><small>Relaxed conversations</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/meditation-dark.png" alt="Meditation Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>🧘 Meditation</strong>
+<br><small>Evening mindfulness</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/analytics-dark.png" alt="Analytics Dark Mode" width="250" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br><strong>📈 Analytics</strong>
+<br><small>Dark theme charts</small>
+</td>
+</tr>
+</table>
+
+<br>
+
+### ✨ **Design Highlights**
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+
+<div style="text-align: center; padding: 15px; background: #f8fafc; border-radius: 12px; min-width: 150px;">
+<strong>🎨 Adaptive Theming</strong><br>
+<small>Light & Dark modes</small>
+</div>
+
+<div style="text-align: center; padding: 15px; background: #f8fafc; border-radius: 12px; min-width: 150px;">
+<strong>🌈 Glassmorphism UI</strong><br>
+<small>Premium backdrop effects</small>
+</div>
+
+<div style="text-align: center; padding: 15px; background: #f8fafc; border-radius: 12px; min-width: 150px;">
+<strong>💫 Smooth Animations</strong><br>
+<small>Lottie & custom transitions</small>
+</div>
+
+<div style="text-align: center; padding: 15px; background: #f8fafc; border-radius: 12px; min-width: 150px;">
+<strong>📱 Responsive Design</strong><br>
+<small>All screen sizes</small>
+</div>
+
+</div>
 
 </div>
 
