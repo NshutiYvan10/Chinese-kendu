@@ -380,44 +380,131 @@ Our advanced theming system responds to user emotions and preferences:
 
 <div align="center">
 
-### 📱 App Interface Showcase
+## 📱 App Interface Showcase
 
+<div align="center">
+
+### 🎨 **Light & Dark Theme Comparison**
+
+#### 🏠 Dashboard
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="assets/screenshots/dashboard.png" alt="Dashboard" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>🏠 Dashboard</strong>
-<br><small>Mood overview with AI insights and daily inspiration</small>
+<td align="center" width="50%">
+<img src="assets/screenshots/dashboard-light.png" alt="Dashboard Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>☀️ Light Mode</strong>
+<br>
+<small>Clean, focused interface for daytime use</small>
 </td>
-<td align="center" width="33%">
-<img src="assets/screenshots/mood-tracking.png" alt="Mood Tracking" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>📊 Mood Tracking</strong>
-<br><small>Advanced 5-point mood logging with insights</small>
-</td>
-<td align="center" width="33%">
-<img src="assets/screenshots/journal.png" alt="AI Journal" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>📝 AI Journal</strong>
-<br><small>Sentiment analysis & writing prompts</small>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="assets/screenshots/messaging.png" alt="Messaging" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>� Messaging</strong>
-<br><small>Real-time chat with mentors and groups</small>
-</td>
-<td align="center" width="33%">
-<img src="assets/screenshots/meditation.png" alt="Meditation" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>🧘 Meditation</strong>
-<br><small>Interactive breathing guides & timers</small>
-</td>
-<td align="center" width="33%">
-<img src="assets/screenshots/analytics.png" alt="Analytics" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<br><strong>📈 Analytics</strong>
-<br><small>Beautiful charts and progress visualization</small>
+<td align="center" width="50%">
+<img src="assets/screenshots/dashboard-dark.png" alt="Dashboard Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>🌙 Dark Mode</strong>
+<br>
+<small>Comfortable, eye-friendly for evening use</small>
 </td>
 </tr>
 </table>
+
+<br>
+
+#### 📊 Mood Tracking & Analytics
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/mood-tracking-light.png" alt="Mood Tracking Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>📈 Analytics Light</strong>
+<br>
+<small>Vibrant charts and clear data visualization</small>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/mood-tracking-dark.png" alt="Mood Tracking Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>📊 Analytics Dark</strong>
+<br>
+<small>Soothing dark charts with accent colors</small>
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 📝 AI Journal & Messaging
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/journal-light.png" alt="AI Journal Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>✏️ Journal Light</strong>
+<br>
+<small>Clean writing space with AI insights</small>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/messaging-light.png" alt="Messaging Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>💬 Messaging Light</strong>
+<br>
+<small>Bright, clear conversation interface</small>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/journal-dark.png" alt="AI Journal Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>📖 Journal Dark</strong>
+<br>
+<small>Focused writing in comfortable darkness</small>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/messaging-dark.png" alt="Messaging Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>🤝 Messaging Dark</strong>
+<br>
+<small>Soothing chat environment</small>
+</td>
+</tr>
+</table>
+
+<br>
+
+#### 🧘 Meditation & Resources
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/meditation-light.png" alt="Meditation Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>🧘 Meditation Light</strong>
+<br>
+<small>Calming exercises in bright theme</small>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/analytics-light.png" alt="Analytics Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
+<br>
+<strong>📋 Resources Light</strong>
+<br>
+<small>Wellness content library</small>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/screenshots/meditation-dark.png" alt="Meditation Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>🌌 Meditation Dark</strong>
+<br>
+<small>Perfect for evening mindfulness sessions</small>
+</td>
+<td align="center" width="50%">
+<img src="assets/screenshots/analytics-dark.png" alt="Analytics Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
+<br>
+<strong>📚 Resources Dark</strong>
+<br>
+<small>Comfortable reading experience</small>
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 🎨 Design Highlights
 - **Glassmorphism UI**: Premium backdrop blur effects throughout
