@@ -590,7 +590,6 @@ DEBUG_MODE=false
 [![Download APK](https://img.shields.io/badge/🤖_DOWNLOAD_APK-v1.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/NshutiYvan10/student-mental-wellness/releases/download/v1.0.0/student-mental-wellness-v1.0.0.apk)
 [![GitHub Release](https://img.shields.io/badge/📦_GitHub_Releases-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NshutiYvan10/student-mental-wellness/releases)
 
-<br>
 
 ### 📱 **Mobile Installation**
 
