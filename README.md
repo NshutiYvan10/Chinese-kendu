@@ -380,131 +380,44 @@ Our advanced theming system responds to user emotions and preferences:
 
 <div align="center">
 
-## 📱 App Interface Showcase
+### 📱 App Interface Showcase
 
-<div align="center">
-
-### 🎨 **Light & Dark Theme Comparison**
-
-#### 🏠 Dashboard
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/dashboard-light.png" alt="Dashboard Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>☀️ Light Mode</strong>
-<br>
-<small>Clean, focused interface for daytime use</small>
+<td align="center" width="33%">
+<img src="assets/screenshots/dashboard.png" alt="Dashboard" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>🏠 Dashboard</strong>
+<br><small>Mood overview with AI insights and daily inspiration</small>
 </td>
-<td align="center" width="50%">
-<img src="assets/screenshots/dashboard-dark.png" alt="Dashboard Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>🌙 Dark Mode</strong>
-<br>
-<small>Comfortable, eye-friendly for evening use</small>
+<td align="center" width="33%">
+<img src="assets/screenshots/mood-tracking.png" alt="Mood Tracking" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>📊 Mood Tracking</strong>
+<br><small>Advanced 5-point mood logging with insights</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/journal.png" alt="AI Journal" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>📝 AI Journal</strong>
+<br><small>Sentiment analysis & writing prompts</small>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="assets/screenshots/messaging.png" alt="Messaging" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>� Messaging</strong>
+<br><small>Real-time chat with mentors and groups</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/meditation.png" alt="Meditation" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>🧘 Meditation</strong>
+<br><small>Interactive breathing guides & timers</small>
+</td>
+<td align="center" width="33%">
+<img src="assets/screenshots/analytics.png" alt="Analytics" width="250" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<br><strong>📈 Analytics</strong>
+<br><small>Beautiful charts and progress visualization</small>
 </td>
 </tr>
 </table>
-
-<br>
-
-#### 📊 Mood Tracking & Analytics
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/mood-tracking-light.png" alt="Mood Tracking Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>📈 Analytics Light</strong>
-<br>
-<small>Vibrant charts and clear data visualization</small>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/mood-tracking-dark.png" alt="Mood Tracking Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>📊 Analytics Dark</strong>
-<br>
-<small>Soothing dark charts with accent colors</small>
-</td>
-</tr>
-</table>
-
-<br>
-
-#### 📝 AI Journal & Messaging
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/journal-light.png" alt="AI Journal Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>✏️ Journal Light</strong>
-<br>
-<small>Clean writing space with AI insights</small>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/messaging-light.png" alt="Messaging Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>💬 Messaging Light</strong>
-<br>
-<small>Bright, clear conversation interface</small>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/journal-dark.png" alt="AI Journal Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>📖 Journal Dark</strong>
-<br>
-<small>Focused writing in comfortable darkness</small>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/messaging-dark.png" alt="Messaging Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>🤝 Messaging Dark</strong>
-<br>
-<small>Soothing chat environment</small>
-</td>
-</tr>
-</table>
-
-<br>
-
-#### 🧘 Meditation & Resources
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/meditation-light.png" alt="Meditation Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>🧘 Meditation Light</strong>
-<br>
-<small>Calming exercises in bright theme</small>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/analytics-light.png" alt="Analytics Light Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #e2e8f0;">
-<br>
-<strong>📋 Resources Light</strong>
-<br>
-<small>Wellness content library</small>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/meditation-dark.png" alt="Meditation Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>🌌 Meditation Dark</strong>
-<br>
-<small>Perfect for evening mindfulness sessions</small>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/analytics-dark.png" alt="Analytics Dark Mode" width="280" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.12); border: 2px solid #334155;">
-<br>
-<strong>📚 Resources Dark</strong>
-<br>
-<small>Comfortable reading experience</small>
-</td>
-</tr>
-</table>
-
-<br>
 
 ### 🎨 Design Highlights
 - **Glassmorphism UI**: Premium backdrop blur effects throughout
@@ -611,36 +524,13 @@ DEBUG_MODE=false
 
 <div align="center">
 
-[![Download APK](https://img.shields.io/badge/🤖_DOWNLOAD_APK-v1.0.0-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/NshutiYvan10/student-mental-wellness/releases/download/v1.0.0/student-mental-wellness-v1.0.0.apk)
-[![GitHub Release](https://img.shields.io/badge/📦_GitHub_Releases-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NshutiYvan10/student-mental-wellness/releases)
+![Download APK v1.0.0](https://img.shields.io/badge/🤖%20DOWNLOAD%20APK-v1.0.0-4CAF50?style=for-the-badge&logoColor=white&labelColor=2E7D32)
 
-<br>
+### Scan to install:
 
-### 📱 **Mobile Installation**
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://github.com/yourusername/student-mental-wellness/releases/download/v1.0.0/student-mental-wellness-v1.0.0.apk" alt="QR Code for APK Download" width="200" height="200" style="border: 2px solid #ddd; border-radius: 8px;">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 16px; box-shadow: 0 8px 32px rgba(0,0,0,0.1); max-width: 500px; margin: 0 auto;">
-
-<div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1);">
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/NshutiYvan10/student-mental-wellness/releases/download/v1.0.0/student-mental-wellness-v1.0.0.apk&bgcolor=ffffff&color=6366f1&margin=10&qzone=2" 
-     alt="QR Code for Student Mental Wellness App" 
-     width="150" 
-     style="border-radius: 12px; border: 3px solid #6366f1; display: block; margin: 0 auto;">
-
-<br>
-
-<div style="text-align: center; color: #374151; font-size: 14px; line-height: 1.5;">
-<strong>🚀 Scan with your phone</strong><br>
-Instantly download the app to your Android device
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<br>
+**Point your camera at the QR code above to download instantly**
 
 ---
 
